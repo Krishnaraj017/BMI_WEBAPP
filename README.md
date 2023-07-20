@@ -1,4 +1,5 @@
-# bmi_firebase
+# bmi_calculator
+
 DEMO-  https://bmicalculcwebapp.netlify.app/
 A new Flutter project.
 
